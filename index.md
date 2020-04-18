@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#features"
-    link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
+  - link: "#diving"
+    link_text: Diving
+  - link: "#diving-accommodation"
+    link_text: Diving & Accommodation
+  - link: "#accommodation"
+    link_text: Accommodation
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
