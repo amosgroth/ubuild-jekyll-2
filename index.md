@@ -17,8 +17,8 @@ page_sections:
     link_text: Home
 - template: full-width-media-element
   block: media-1
-  image: ''
-  caption: ''
+  image: "/uploads/2018/06/21/theme.png"
+  caption: Test Caption
 
 ---
 foo bar
