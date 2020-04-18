@@ -17,7 +17,7 @@ page_sections:
     link_text: Home
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2018/06/21/theme.png"
+  image: "/uploads/2020/04/18/PVDH.jpg"
   caption: Test Caption
 
 ---
